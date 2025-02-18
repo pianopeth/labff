@@ -16,4 +16,5 @@ Default resolution is 3840x2160 @10fps, it can be changed by editing _makevid.ba
 Any audio formats are accepted, the default input file is audio.mp3, it can be changed by editing _makevid.bat
 
 Based on andrewmole's idea: https://gist.github.com/ajlee2006/76c08102eba36895d843274198b285b2
+
 sproc by CMaj7: https://github.com/edwardx999/ScoreProcessor/releases
